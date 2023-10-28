@@ -13,6 +13,10 @@
 
   "license": "ISC",
 
+  "engine": {
+  "node": "18.x.x"
+  },
+
   "dependencies": {
         "@adiwajshing/baileys": "npm:whiskeysockets/baileys@6.4.1",
         "@adiwajshing/keyed-db": "^0.2.4",
